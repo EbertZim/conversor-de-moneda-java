@@ -8,6 +8,7 @@ public class Principal {
             System.out.println("\n Hola, Soy tu convetirdor de moneda, que vas a convertir hoy");
             System.out.println("1. Convertir Moneda");
             System.out.println("2. Salir");
+            System.out.println("Lista de monedas https://www.wikilengua.org/index.php/Lista_de_monedas");
             String opcionPrincipal = entrada.nextLine();
             int opcion;
             try{
